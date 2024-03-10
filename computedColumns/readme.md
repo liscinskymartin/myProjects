@@ -7,7 +7,7 @@ Based on their implementation, design and develope our implementation.
 Idea is, that user will define caluclated fields as rule/workflow.
 
 ## Solution
-* Result of investigation-Dynamics uses sql scripts (UDF-User Defined Function) and these columns are in sql server defined as computed columns, so their values are recalculate during query.
+* Result of investigation-Dynamics uses sql scripts (UDF-User Defined Function) and these columns are in sql server defined as computed columns, so their values are recalculated during query.
 * The core of the whole implementation is translation process of defined formula (XML Workflow) to UDF.
 * On the image below, you can see more information about translation.
 ![translate](translate.png)
