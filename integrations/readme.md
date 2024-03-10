@@ -1,4 +1,4 @@
-[Home](../readme.md)
+[Home](../README.md)
 # Integrations with 3rd party system
 https://www.youtube.com/watch?v=dJET31E0l0E&t=2189s
 

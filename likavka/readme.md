@@ -1,4 +1,4 @@
-[Home](../readme.md)
+[Home](../README.md)
 # IoT - Smart Lighting System (Likavka)
 
 https://www.lepsiaobec.sk/viete-kto-je-vitazom-madhack-iot-pre-lepsiu-obec/
@@ -22,4 +22,4 @@ From business perspective, system should be cost effective, comparing to buying 
 
 ![app for field teschnician](madhackWinners.jpg)
 
-[Home](../readme.md)
+[Home](../README.md)

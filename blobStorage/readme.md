@@ -1,4 +1,4 @@
-[Home](..\readme.md)
+[Home](../README.md)
 
 # Blob storage connectors
 https://docs.resco.net/wiki/Blob_storage_for_Resco_Cloud

@@ -1,4 +1,4 @@
-[Home](..\readme.md)
+[Home](../README.md)
 # Data Model Explorer
 
 https://docs.resco.net/wiki/Data_model_explorer
@@ -18,4 +18,4 @@ Data Model Explorer offers overview of the entities used in your app project. At
 
 * In Progess - visualization of relations between entities
 
-[Home](..\readme.md)
+[Home](../README.md)

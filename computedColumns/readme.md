@@ -1,4 +1,4 @@
-[Home](..\readme.md)
+[Home](../README.md)
 # Computed Columns in SQL Server
 ## Problem
 Dynamics and Salesforce offers feature of Calculated/Computed/Rollup fields. Value of the field is calculated, based on other field' s values, in the context of rollup fields - values of different records.

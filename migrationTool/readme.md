@@ -1,4 +1,4 @@
-[Home](..\readme.md)
+[Home](../README.md)
 # Migration Tool For UAT Environments
 ## Problem
 ![actual situation](actualSituationDiagram.png)
