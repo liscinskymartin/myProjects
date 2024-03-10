@@ -7,7 +7,7 @@ but it would be beneficial to add ability to user migrate only smaller component
 In addition, migration/cloning should be done as long running job, so user is able to continue in work without waiting on the page.
 
 
-## Soulution
+## Solution
 ![solution diagram](solutionDiagram.png)
 * Data are divided to smaller selectable components. 
 * User is able to select which components should be migrated.
