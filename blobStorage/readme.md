@@ -1,8 +1,9 @@
 [Home](../README.md)
 
 # Blob storage connectors
-https://docs.resco.net/wiki/Blob_storage_for_Resco_Cloud
- 
+
+[Documentation](https://docs.resco.net/wiki/Blob_storage_for_Resco_Cloud)
+
 # Problem
 ![actual situation](actualSituation.png)
 Blobs are stored directly in the database in SQL Server database as a regular table field (nvarchar(max) or varbinary(max) type). It is expensive and it slows down some processes.

@@ -1,9 +1,9 @@
 [Home](../README.md)
 # Data Model Explorer
 
-https://docs.resco.net/wiki/Data_model_explorer
+[Doc - Data Model Explorer](https://docs.resco.net/wiki/Data_model_explorer)
 
-https://www.youtube.com/watch?v=19QP068_dHoy (20s-30s)
+[Video  (20s-30s)](https://www.youtube.com/watch?v=19QP068_dHoy)
 
 ## Tech Stack
 #typescript #knockoutjs

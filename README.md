@@ -15,4 +15,4 @@
 * [RobotCraft - Robotics Craftsmanship International Academy](portugal/readme.md)
 
 ## Contact
-https://www.linkedin.com/in/liscinskymartin/
+[LinkedIn](https://www.linkedin.com/in/liscinskymartin/)

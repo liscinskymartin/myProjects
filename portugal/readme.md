@@ -2,9 +2,10 @@
 
 # RobotCraft - Robotics Craftsmanship International Academy
 
-https://www.youtube.com/watch?v=d8Yzs6jjaHU
+[Official Website](https://robotcraft.ingeniarius.pt/)
 
-https://robotcraft.ingeniarius.pt/
+[Youtube video from the internship](https://www.youtube.com/watch?v=d8Yzs6jjaHU)
+
 
 ![eog1](hw3.png)
 ![eog1](hw4.png)

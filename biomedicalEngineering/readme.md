@@ -1,3 +1,4 @@
+[Home](../README.md)
 # Biomedical Engineering - University of Zilina
 
 ## Mobile app for the intelligent T-Shirt - Diploma Thesis

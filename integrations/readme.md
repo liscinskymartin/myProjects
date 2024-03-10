@@ -1,15 +1,13 @@
 [Home](../README.md)
 # Integrations with 3rd party system
-https://www.youtube.com/watch?v=dJET31E0l0E&t=2189s
 
-https://www.youtube.com/watch?v=trD-VEk360Q&t=1678s
+[Webinar 1](https://www.youtube.com/watch?v=dJET31E0l0E&t=2189s)
 
-Official documentation:
+[Webinar 2](https://www.youtube.com/watch?v=trD-VEk360Q&t=1678s)
 
-https://docs.resco.net/wiki/Integrations
+[Doc - Business Central](https://docs.resco.net/wiki/Business_Central)
 
-https://docs.resco.net/wiki/Business_Central
-
+[Doc - Integrations](https://docs.resco.net/wiki/Integrations)
 
 ## Problem
 Existing/Potential customers would like to connect Resco Cloud organization to the 3rd party systems without coding custom plugins.

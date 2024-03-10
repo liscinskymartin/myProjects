@@ -1,7 +1,10 @@
 [Home](../README.md)
 # IoT - Smart Lighting System (Likavka)
 
-https://www.lepsiaobec.sk/viete-kto-je-vitazom-madhack-iot-pre-lepsiu-obec/
+[Video](https://www.youtube.com/watch?v=a-1eh9SjFxM)
+
+[Article](https://www.lepsiaobec.sk/viete-kto-je-vitazom-madhack-iot-pre-lepsiu-obec/
+)
 
 ## Problem
 There are a lot of city lamps wordlwide. Some of them are already smart enough, 
