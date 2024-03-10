@@ -9,13 +9,9 @@
 * [Computed Columns in SQL Server](computedColumns/readme.md)
 * [Data Model Explorer](dataModelExplorer/readme.md)
 
-### IoT Smart Lighting
-* [Likavka](likavka/readme.md)
-
-### University
-* [Mobile app for intellignet T-Shirt](tshirt/readme.md)
-* [Hem Counter](hemCounter/readme.md)
-* [EOG-Electrooculograph](eog/readme.md)
+### Student Projects
+* [IoT Smart Lighting](likavka/readme.md)
+* [Biomedical Engineering](biomedicalEngineering/readme.md)
 * [RobotCraft - Robotics Craftsmanship International Academy](portugal/readme.md)
 
 ## Contact
