@@ -1,16 +1,17 @@
 [Home](../README.md)
-# Biomedical Engineering - University of Zilina
 
-## Mobile app for the intelligent T-Shirt - Diploma Thesis
-![ecgapp](ecgapp.png)
+# ALIS
 
-## Mobile app for hem counting
-![krvinkyapp](krvinkyapp.png)
+[Google Play](https://play.google.com/store/apps/details?id=net.resco.alis&pli=1)
 
-## Electrooculograph
-![eog1](hw1.png)
-![eog1](hw2.png)
-![eog1](eog1.jpg)
-![eog2](eog2.jpg)
+[Blog 1](https://www.resco.net/blog/resco-labs-alis-ble-devices/)
 
-[->Next: RobotCraft - Robotics Craftsmanship International Academy](../portugal/readme.md)
+[Blog 2](https://www.resco.net/blog/alis-developer-kits/)
+
+[Youtube video](https://www.youtube.com/watch?v=hvDjd0G3ZZ4)
+
+
+![app1](app1.png)
+![app2](app2.png)
+
+[Next->IoT Smart Lighting](../likavka/readme.md)
