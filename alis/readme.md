@@ -14,4 +14,4 @@
 ![app1](app1.png)
 ![app2](app2.png)
 
-[Next->](../likavka/readme.md)
+[Next->IoT Smart Lighting](../likavka/readme.md)
