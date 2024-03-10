@@ -14,9 +14,9 @@ In addition, migration/cloning should be done as long running job, so user is ab
 * User is able to clone the whole organization by a few clicks.
 * Last, but not least migrate processing is implemented as long running job, which is executed every 5 minutes and data are migrated in smaller batches.
 
-UI-Component selection:
+<!-- UI-Component selection:
 ![export selection](exportSelection.png)
 UI-Metadata comparison-Import preview
-![schema comparison](metadataComparison.png)
+![schema comparison](metadataComparison.png) -->
 
 [->Next: Integrations with 3rd party systems](../integrations/readme.md)
