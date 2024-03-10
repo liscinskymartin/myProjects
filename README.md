@@ -8,6 +8,7 @@
 * [Blob storage connectors](blobStorage/readme.md)
 * [Computed Columns in SQL Server](computedColumns/readme.md)
 * [Data Model Explorer](dataModelExplorer/readme.md)
+* [ALIS-Localization System](alis/readme.md)
 
 ### Student Projects
 * [IoT Smart Lighting](likavka/readme.md)

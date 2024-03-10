@@ -18,4 +18,4 @@ Data Model Explorer offers overview of the entities used in your app project. At
 
 * In Progess - visualization of relations between entities
 
-[->Next: IoT Smart Lighting](../likavka/readme.md)
+[->Next: ALIS](../alis/readme.md)
