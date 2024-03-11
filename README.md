@@ -15,5 +15,7 @@
 * [Biomedical Engineering](biomedicalEngineering/readme.md)
 * [RobotCraft - Robotics Craftsmanship International Academy](portugal/readme.md)
 
+## Certifications
+* [Microsoft Certified: Azure Developer Associate](https://www.credly.com/badges/7d62aacc-9f7a-4c10-988e-172f2dc87d40/public_url) 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/liscinskymartin/)
