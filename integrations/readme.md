@@ -1,5 +1,5 @@
 [Home](../README.md)
-# Integrations with 3rd party system
+# Integrations with a third-party system.
 
 [Webinar 1](https://www.youtube.com/watch?v=dJET31E0l0E&t=2189s)
 

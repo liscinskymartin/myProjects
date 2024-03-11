@@ -18,4 +18,4 @@ In addition, the migration/cloning process should be implemented as a long-runni
 UI-Metadata comparison-Import preview
 ![schema comparison](metadataComparison.png) -->
 
-[->Next: Integrations with 3rd party systems](../integrations/readme.md)
+[->Next: Integrations with a third-party system.](../integrations/readme.md)
