@@ -10,7 +10,7 @@
 ## Electrooculograph
 ![eog1](hw1.png)
 ![eog1](hw2.png)
-![eog1](eog1.jpg)
-![eog2](eog2.jpg)
+<!-- ![eog1](eog1.jpg)
+![eog2](eog2.jpg) -->
 
 [->Next: RobotCraft - Robotics Craftsmanship International Academy](../portugal/readme.md)
