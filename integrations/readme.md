@@ -10,58 +10,57 @@
 [Doc - Integrations](https://docs.resco.net/wiki/Integrations)
 
 ## Problem
-Existing/Potential customers would like to connect Resco Cloud organization to the 3rd party systems without coding custom plugins.
-The system should be able to provide mapping between local and external schema. 
+Existing/potential customers would like to connect the Resco Cloud organization to 3rd-party systems without coding custom plugins. The system should be able to provide mapping between local and external schemas.
 
-At the end of this task, user should be able to integrate Business Central and Dynamics environemts with Resco Cloud.
+At the end of this task, the user should be able to integrate Business Central and Dynamics environments with Resco Cloud.
 
 
 ## Solution
-Integrations allows you to connect your Resco Cloud organization to various systems using connectors. Match entities and fields between the two servers and exchange data. Configured connections can be used in Resco Cloud jobs and workflows to automate sync process.
+Integrations allow you to connect your Resco Cloud organization to various systems using connectors, mapping entities and fields between the two servers for data exchange. Configured connections can be used in Resco Cloud jobs and workflows to automate the synchronization process.
 
 The tool can be described by the image below:
 
-* It provides data exchange between two systems with respect of defined mapping and configuration.
+* It provides data exchange between two systems with respect to defined mapping and configuration.
 
 ![integrations diagram](integrationsDiagram.png)
 
-* Data are processed by connector and service.
+* Data is processed by the connector and service.
 
 ![odata response to resco](odataResponseToResco.png)
 
-* Connector process data from external system and transform it to the form, which is used by Resco Cloud.
+* The connector processes data from the external system and transforms it to the form used by Resco Cloud.
 
 ![connector diagram](connectorDiagram.png)
 
-* Service applies defined mapping and stores data to the database. 
+* The service applies defined mapping and stores data in the database. 
 
 ![service diagram](serviceDiagram.png)
 
 ### Web application
-- editor for managing connections
-- device code flow was used for authentication, so credentials was securely stored in Resco Cloud
+- Editor for managing connections.
+- Device code flow was used for authentication, so credentials was securely stored in Resco Cloud.
 
-- editor for setup mapping and configuration
-- user is able to define filters
-- editor is able to detect deleted entities or fields
+- Editor for setting up mapping and configuration.
+- The user is able to define filters.
+- The editor can detect deleted entities or fields.
 
 ![editor overview](editorOverview.png)
 ![lookup mapping](lookupMapping.png)
 
-- user is able to see preview of export/import
+- The user can preview the export/import.
 
 ![import preview](importPreview.png)
 
 ### 3rd party system
-- very important part of the creating solution was to study documentation about the external system (business central)
-- for business central it was necessary to create some extensions which will allow to read versionnumber of the tables
-- you can see code of these extensions on the page: [BC Extensions](https://github.com/Resconet/RescoIntegrations)
+- A very important part of creating the solution was studying documentation about the external system (Business Central).
+- For Business Central, it was necessary to create some extensions that would allow reading the version number of the tables.
+- You can see the code for these extensions on the page: [BC Extensions](https://github.com/Resconet/RescoIntegrations)
 
 ### Connectors
-- Simple.OData.Client library was used in OData connector
-- OAuth2.0 device code flow was implemented
+- The Simple.OData.Client library was used in the OData connector.
+- OAuth2.0 device code flow was implemented.
 
-Based on our company strategy, this project was stopped, so anther connectors were not implemented. 
+Based on our company strategy, this project was stopped, so other connectors were not implemented. 
 From my point of view it was very, very interesting project.
 
 [->Next: Blob storage connectors](../blobStorage/readme.md)

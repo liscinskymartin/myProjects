@@ -6,16 +6,17 @@
 
 # Problem
 ![actual situation](actualSituation.png)
-Blobs are stored directly in the database in SQL Server database as a regular table field (nvarchar(max) or varbinary(max) type). It is expensive and it slows down some processes.
-Create connectors for different storage providers, so every customer can setup his own, alternatively can use the defualt one, which will be maintained by Resco.
-Part of the solution should be ability to migrate existing blobs to the external storage. 
-Synchronization between server and the mobile app must not be affected by these changes.
+Blobs are stored directly in the SQL Server database as a regular table field (nvarchar(max) or varbinary(max) type). This approach is expensive and slows down some processes.
+
+Create connectors for different storage providers so that every customer can set up their own. Alternatively, they can use the default one, which will be maintained by Resco. Part of the solution should include the ability to migrate existing blobs to external storage.
+
+Synchronization between the server and the mobile app must not be affected by these changes.
 
 # Solution
 ![solution diagram](solutionDiagram.png)
 
-* User is able to setup external blob storage on Resco Cloud.
-* Authentication oAuth2.0
+* The user is able to set up external blob storage on Resco Cloud.
+* Authentication OAuth 2.0.
 * Plugins/Connectors implements interface:
 
 ```c#
@@ -41,9 +42,10 @@ public interface IXRMBlobStorage : IDisposable
 * OneDrive
 
 ### Supported cases
-* a) migrate existing blobs from database to external storage
-* b) use external storage during synchronization
-* c) migrate blobs from one external storage to the different external storage
+* a) Migrate existing blobs from the database to external storage.
+* b) Use external storage during synchronization.
+* c) Migrate blobs from one external storage to a different external storage.
+
 
 ### Performance comparison of plugins/storages
 * Upload - time in ms per record

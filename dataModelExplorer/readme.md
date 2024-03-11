@@ -9,10 +9,10 @@
 #typescript #knockoutjs
 
 ## Problem
-User is not able see global overview of mobile project customization, especially settings of entities. It is hard and time-consuming to identify problems of the customization. The goal is to have tool which will provide overview of used entities. In addition, it would be nice to provide graphical visualization of relations between entities.
+Users are unable to see a global overview of mobile project customization, especially the settings of entities. It is challenging and time-consuming to identify problems with the customization. The goal is to have a tool that will provide an overview of used entities. Additionally, it would be nice to provide a graphical visualization of relations between entities.
 
 ## Solution
-Data Model Explorer offers overview of the entities used in your app project. At a glance, you can identify large tables with many columns and review their conflict resolution or synchronization strategies.
+The Data Model Explorer offers an overview of the entities used in your app project. At a glance, you can identify large tables with many columns and review their conflict resolution or synchronization strategies.
 
 ![editor](editor.png)
 

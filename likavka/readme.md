@@ -7,19 +7,15 @@
 )
 
 ## Problem
-There are a lot of city lamps wordlwide. Some of them are already smart enough, 
-so they are able to switch on/off online or send notification about some deffects to technicians.
-On the other hand, there are lamps (the cheaper ones), which dont offer such a features.
-Create solution, that brings these features to the non-intelligent city lamps. 
-From business perspective, system should be cost effective, comparing to buying the new smart lamps.
+The mayor of the village Likavka faces the challenge of lacking a monitoring and management system for both existing old lamps and potential new installations. Limited financial resources prevent the acquisition of modern lamps with integrated systems available in the market. The goal is to develop a cost-effective IoT-based solution that can monitor and manage both old and new lamps, providing notifications to field technicians in case of any issues or damages.
 
 ## Solution
 ![solution diagram](solutionDiagram.png)
-* Current sensors with combination of IoT devices were installed to city lamps.
-* IoT device reads value every hour from the sensor and sends data to the gateway (The Things Network).
-* Plugin on the Resco server was executed every 30 minutes and reads new data from The Things Network Hub.
-* Data were processed and saved to the database.
-* Field Technician was able to sync the app with server and see state of the lamps. In addition, if plugin on the Resco Server detects wrong value of the lamp, it sends notification to Field Technician about it.
+* Current sensors, in combination with IoT devices, were installed on city lamps.
+* IoT devices read values every hour from the sensor and send data to the gateway (The Things Network).
+* A plugin on the Resco server is executed every 30 minutes, reading new data from The Things Network Hub.
+* The data is processed and saved to the database.
+* Field Technicians are able to sync the app with the server and view the state of the lamps. Additionally, if the plugin on the Resco Server detects an incorrect value for the lamp, it sends a notification to the Field Technician.
 
 ![app for field teschnician](tabletApp.png)
 
