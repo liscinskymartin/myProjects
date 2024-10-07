@@ -16,6 +16,7 @@
 * [RobotCraft - Robotics Craftsmanship International Academy](portugal/readme.md)
 
 ## Certifications
-* [Microsoft Certified: Azure Developer Associate](https://www.credly.com/badges/7d62aacc-9f7a-4c10-988e-172f2dc87d40/public_url) 
+* [Microsoft Certified: Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/MartinLiscinsky-1009/AC2AC024AD064EBB?sharingId=8DD2DF1CAE115885)
+* [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/MartinLiscinsky-1009/39F98C340C56975B?sharingId=8DD2DF1CAE115885)  
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/liscinskymartin/)
